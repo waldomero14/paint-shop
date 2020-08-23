@@ -9,5 +9,7 @@
             "Model\\": "src/Model"
         },
         "classmap": ["src"]
+    },
+    "require-dev": {
     }
 }
